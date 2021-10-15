@@ -1,4 +1,4 @@
-export DATABASE_URL='postgresql://postgres:1342@localhost:5432/capston_1'
+export DATABASE_URL='postgresql://postgres:1342@localhost:5432/casting48'
 export DB_USER='postgres'
 export DB_PASSWORD='1342'
 export DB_HOST='localhost:5432'
