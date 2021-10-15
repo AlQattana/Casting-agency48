@@ -66,16 +66,16 @@ python app.py
 2. Below are three dummy Auth0 accounts. Log in with each account and copy the access token in the url. 
 
 ```bash
-email: casting_assistant@gmail.com
-password: Password1
+email: casting_a@mail.com
+password: Asdf1342
 ```
 ```bash
-email: casting_director@gmail.com
-password: Password2
+email: casting_d@mail.com
+password: Asdf1342
 ```
 ```bash
-email: executive_producer@gmail.com
-password: Password3
+email: executive@mail.com
+password: Asdf1342
 ```
 
 3. Update the access tokens in `setup.sh`.  
